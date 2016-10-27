@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bloccit
-thumbnail-path: "img/bloccit.png"
+thumbnail-path: "img/bloccit1.png"
 short-description: Bloccit is a Reddit replica, a Ruby on Rails app.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloccit.png)
+![]({{ site.baseurl }}/img/bloccit1.png)
 
 {:.center}
 <h5>
