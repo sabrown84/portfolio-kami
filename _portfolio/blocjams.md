@@ -11,7 +11,7 @@ short-description: Build a self-destructing to-do list application.
 
 {:.center}
 <h5>
-  <a href="https://github.com/sabrown84/bloc-jams" class="button">
+  <a href="https://github.com/sabrown84/bloc-jams/" class="button">
     Source Code
     <i class="fa fa-fw fa-github"></i>
   </a>
