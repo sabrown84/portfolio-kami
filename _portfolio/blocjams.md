@@ -11,7 +11,7 @@ short-description: Build a self-destructing to-do list application.
 
 {:.center}
 <h5>
-  <a href="https://github.com/sabrown84/Blocitoff/" class="button">
+  <a href="https://github.com/sabrown84/bloc-jams" class="button">
     Source Code
     <i class="fa fa-fw fa-github"></i>
   </a>
@@ -31,4 +31,4 @@ A music player application that displays album data, and song lists. It alsow ho
 
 ## Conclusion
 
-The skills I've learned this far have gotten stronger. 
+Now I understand why gamers love to do this. So fun! 
