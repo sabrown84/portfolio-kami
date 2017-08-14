@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Pong
 thumbnail-path: "img/blocpong.png"
-short-description: Build a self-destructing to-do list application.
+short-description: Built the world renowned classic: Pong
 
 ---
 
@@ -19,7 +19,7 @@ short-description: Build a self-destructing to-do list application.
 
 ## Explanation
 
-One of the best early computer games ever. It similates table tennis in the comforts of your own home. The goals of creating this game were to learn to make Pong table, create two paddles, and ball of which all had to move. It was a challenge to figure out controlling the difference between the player and computer controlling each side of the board. As a fun and enlightening experience I learned to use JavaScript to update the score and make sure the game ended. Try it out it's fun. 
+One of the best early computer games ever. It simulates table tennis in the comforts of your own home. The goals of creating this game were to learn to make the Pong table, create two paddles, and a ball... of which all had to move. It was a challenge to figure out controlling the difference between the player and computer controlling each side of the board. As a fun and enlightening experience I learned to use JavaScript to update the score and make sure the game ended. Try it out it's fun. 
 
 ## Skills and Tools Used
 
@@ -31,4 +31,4 @@ One of the best early computer games ever. It similates table tennis in the comf
 
 ## Conclusion
 
-The skills I've learned this far have gotten stronger. 
+The skills I've learned this far have gotten stronger.

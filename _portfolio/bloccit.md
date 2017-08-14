@@ -19,7 +19,7 @@ short-description: Bloccit is a Reddit replica, a Ruby on Rails app.
 
 ## Explanation
 
-My first project a Reddit replica.Getting through all the foundational work to get this point was very rewarding. I figured out that ruby on rails has a wide range or possibilities. When looking at my favorite RoR websites I know I've got a long way to go. This app is user based that lets people share anything through posts. Users are authenticated by creating an account are allowed to create public or private topics. They then can add posts to a topic where it features comments, votes, and favorites. 
+My first project is a Reddit replica. Getting through all the foundational work to get this point was very rewarding. I figured out that ruby on rails has a wide range or possibilities. When looking at my favorite RoR websites I know I've got a long way to go. This app is user based that lets people share anything through posts. Users are authenticated by creating an account are allowed to create public or private topics. They then can add posts to a topic where it features comments, votes, and favorites. 
 
 ## Skills and Tools Used
 
@@ -33,4 +33,4 @@ My first project a Reddit replica.Getting through all the foundational work to g
 
 ## Conclusion
 
-Just a stepping stone, and many more to come. 
+Just a stepping stone, and many more to come.

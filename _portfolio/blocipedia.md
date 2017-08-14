@@ -19,10 +19,10 @@ short-description: Build a production quality SaaS app that allows users to crea
 
 ## Explanation
 
-This application lets user create, collaborate, edit, and destroy wikis. Users are also allowed to upgrade their membership to create private wikis. Markdown can be previewd by users as they type. Users are able to upgrade and downgrade their accounts and in downgraded accounts the private wikis will automatically become public.  
+This application lets users create, collaborate, edit, and destroy wikis. Users are also allowed to upgrade their membership to create private wikis. Markdown can be previewed by users as they type. Users are able to upgrade and downgrade their accounts and in downgraded accounts the private wikis will automatically become public.  
 
 ## Skills and Tools Used
- 
+
  * Ruby on Rails
  * Bootstrap
  * SQLite
@@ -34,4 +34,4 @@ This application lets user create, collaborate, edit, and destroy wikis. Users a
 
 ## Conclusion
 
-Interesting app to build. Again continuously learning...I enjoyed using Bootstrap to make the overall look smoother, and understanding the use of Redcarpet to preview Mardown.   
+Interesting app to build. Again continuously learning...I enjoyed using Bootstrap to make the overall look smoother, and understanding the use of Redcarpet to preview Markdown.   
