@@ -5,13 +5,13 @@ url: "http://sabrown84.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Sharrell A. Porter # Your name will go here
+  title: Web Developer# Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Life Learner </h1>
-     <p> A budding software engineer specializing in RoR, HTML, CSS, and Javascript.</p>
+     <h1>Sharrell A. Porter</h1>
+     <p> I love to work with Ruby on Rails and JavaScript.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -27,7 +27,7 @@ theme_settings:
   github: "sabrown84" # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram: "orangerelli"
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/sharrell-porter-53616846/ # Full URL
   pinterest:
   reddit:
   soundcloud:
