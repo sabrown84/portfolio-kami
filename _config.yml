@@ -5,7 +5,7 @@ url: "http://sabrown84.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Web Developer# Your name will go here
+  title: Web Developer # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
