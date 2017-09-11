@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Jams
-thumbnail-path: "img/blocjams.png"
+thumbnail-path: "img/bloc-jams.png"
 short-description: Build a self-destructing to-do list application.
 
 ---
