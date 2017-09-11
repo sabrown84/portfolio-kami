@@ -7,7 +7,7 @@ short-description: Build a production quality SaaS app that allows users to crea
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia1.png)
+![]({{ site.baseurl }}/img/blocipedia.png)
 
 {:.center}
 <h5>

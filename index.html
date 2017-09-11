@@ -7,7 +7,7 @@ title: Home
 
   <div class="work">
     <h2>My Work</h2>
-    {% for project in site.portfolio limit:5 %}
+    {% for project in site.portfolio limit:10 %}
     <div class="project">
       <div class="project-thumb">
         <a href="{{ project.url | prepend: site.baseurl }}">
@@ -65,7 +65,7 @@ title: Home
             <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
     {% endfor %}
-      
+
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
       {{ site.theme_settings.str_next }}

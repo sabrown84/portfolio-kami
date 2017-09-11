@@ -7,7 +7,7 @@ short-description: Built the world renowned classic: Pong
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocpong.png)
+![]({{ site.baseurl }}/img/blocpong2.png)
 
 {:.center}
 <h5>

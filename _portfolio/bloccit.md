@@ -7,7 +7,7 @@ short-description: Bloccit is a Reddit replica, a Ruby on Rails app.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloccit1.png)
+![]({{ site.baseurl }}/img/bloccit2.png)
 
 {:.center}
 <h5>

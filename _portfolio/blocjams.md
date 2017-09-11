@@ -7,7 +7,7 @@ short-description: Build a self-destructing to-do list application.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }}/img/bloc-jams.png)
 
 {:.center}
 <h5>
